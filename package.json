@@ -1,0 +1,19 @@
+{
+  "name": "tabulation-system",
+  "version": "1.0.0",
+  "description": "Tabulation System For Events",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aynjel/tabulation-node-js.git"
+  },
+  "author": "Anggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aynjel/tabulation-node-js/issues"
+  },
+  "homepage": "https://github.com/aynjel/tabulation-node-js#readme"
+}
